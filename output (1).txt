@@ -1,0 +1,2 @@
+Expected Output:
+Data inserted successfully.
